@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.counter-container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.counter {
+  color: #c20a72;
+}
+.button {
+  color: white;
+  background-color: #007bff;
+}
+.description {
+  color: #2d3a35;
+}
